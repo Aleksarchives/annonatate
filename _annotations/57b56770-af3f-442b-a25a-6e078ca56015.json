@@ -1,0 +1,37 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/segIns_020"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Circle",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Aleksarchives",
+                "name": "Aleksmil"
+            },
+            "created": "2025-03-21T13:29:13.082Z",
+            "modified": "2025-03-21T13:29:14.601Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://d.lib.ncsu.edu/collections/catalog/segIns_020/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://d.lib.ncsu.edu/collections/canvas/segIns_020",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"3146.3036499023438\" cy=\"1515.8038330078125\" r=\"1173.7701207111481\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "57b56770-af3f-442b-a25a-6e078ca56015.json",
+    "motivation": "commenting"
+}
